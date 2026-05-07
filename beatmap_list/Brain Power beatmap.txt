@@ -1,0 +1,299 @@
+//short_part_start
+2.8sec
++0.35 X 60beat(short)
+//long_part_start
+13.3sec
++0.6(long)
+13.9sec
+//long_part_end
+23.8sec
+//short_part_end
++0.2
+24.0sec
++0.3
+24.3sec
++0.2
+24.5sec
++0.3
+24.8sec
++0.2
+25.0sec
++0.2
+25.2sec
+//vocal_start
++0.2
+25.4sec
++0.4
+25.8sec
++0.3
+26.1sec
++0.4
+26.5sec
++0.7
+27.2sec
++0.7
+27.9sec
++0.3
+28.2sec
++0.4
+28.7sec
++0.3
+29.0sec
++0.4
+29.4sec
++0.7
+30.1sec
++0.6
+30.7sec
++0.2
+30.9sec
++0.2
+31.1sec
++0.2
+31.4sec
++1.8
+33.2sec
++0.3
+33.5sec
++0.2
+33.7sec
++0.2
+33.9sec
++0.3
+34.2sec
++0.7
+34.9sec
++0.4
+35.3sec
++0.6(long)
+35.9sec
++0.1
+36.0sec
++0.3
+36.3sec
++0.4
+36.7sec
++0.4
+37.1sec
++0.9
+38.0sec
++0.1
+38.1sec
++0.4
+38.5sec
++1.0
+39.5sec
++0.5(long)
+40.0sec
++0.2
+40.2sec
++1.1(long)
+41.3sec
++0.3
+41.6sec
++0.4
+42.0sec
++0.1
+42.1sec
++0.2
+42.3sec
++0.7
+43.0sec
++0.7
+43.7sec
++0.7
+44.4sec
++0.4
+44.8sec
++0.2(long)
+45.0sec
++0.2
+45.2sec
++0.4
+45.6sec
++0.6
+46.2sec
++0.7
+46.9sec
++0.4
+47.3sec
++0.3
+47.6sec
++0.1
+47.7sec
++0.1
+47.8sec
++0.1
+47.9sec
+//long_part_start
++0.1
+48.0sec
+(long)
+48.5sec
++0.1
+48.6sec
++0.7(long)
+49.3sec
++0.1
+49.4sec
++0.8(long)
+50.2sec
++0.6
+50.8sec
++0.6(long)
+51.4sec
++0.1
+51.5sec
++0.6(long)
+52.1sec
++0.1
+52.2sec
++0.4
+52.6sec
++0.2
+52.8sec
++0.1
+52.9sec
++0.1 X 7beat(short)
+53.6sec
++0.1
+53.7sec
++0.6
+54.3sec
++0.7(long)
+55.0sec
++0.1
+55.1sec
++0.8(long)
+55.9sec
++0.6
+56.5sec
++0.6(long)
+57.1sec
++0.1
+57.2sec
++0.7(long)
+57.9sec
++0.2
+58.1sec
++0.1 X 7beat(short)
+58.8sec
++0.1
+58.9sec
++0.2
+59.1sec
++0.2
+59.3sec
++0.35 X 30beat(short)
+//1min
+9.8sec
++0.1
+9.9sec
++0.1
+10.0sec
++0.2
+10.2sec
++0.4
+10.6sec
++1.2(long)
+11.8sec
++0.1
+11.9sec
++0.3
+12.2sec
++0.4
+12.4sec
++0.3
+12.7sec
++0.3
+13.0sec
++0.2
+13.2sec
++0.1
+13.3sec -f
++0.4
+13.7sec
++0.075 X 12beat(short)
+14.6sec
++0.1
+14.7sec
++0.15 X 8beat(short)
+15.9sec
++0.2
+16.1sec -f
++0.4
+16.5sec
++0.075 X 12beat(short)
+17.4sec
++0.1
+17.5sec
++0.15 X 8beat(short)
+18.7sec
++0.2
+18.9sec -f
++0.4
+19.3sec
++0.075 X 12beat(short)
+20.2sec
++0.1
+20.3sec
++0.15 X 8beat(short)
+21.5sec
++0.2
+21.7sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+24.5sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+27.3sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+30.1sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+32.9sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+35.7sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+38.5sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+41.3sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.2
+44.1sec -f
++0.4
++0.075 X 12beat(short)
++0.1
++0.15 X 8beat(short)
++0.1
+46.8sec
++3.2(long)
+51.0sec

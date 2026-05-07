@@ -1,0 +1,33 @@
+speed=10
+sleep=10
+init_time=0
+time=speed+sleep, time=1000->1sec
+reach=1
+y = init_y
+init_y=?
+
+run1
+drop->+speed(10)->y=init_y+10*1
++sleep(10)->time=10
+
+run2
+y=init_y+10*2
+time=10*2
+
+run3
+y=init_y+10*3
+time=10*3
+
+runN
+y=init_y+speed*N
+time=sleep*N
+
+time=1000=sleep*N
+N=1000/sleep
+y=init_y+speed*(1000/sleep)
+ =init_y+1000/sleep*speed
+ =970
+init_y=970-(1000/sleep)*speed
+
+
+
